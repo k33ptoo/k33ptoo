@@ -3,7 +3,7 @@
 - 📫 How to reach me: keeptoo.ui.ux@gmail.com for help and other business inquiries
 
 \
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](akchieng@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](akchieng@gmail.com)
 <!--
 **k33ptoo/k33ptoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
