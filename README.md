@@ -1,7 +1,8 @@
 ### Hi there 👋 my name is Amos Chepchieng - KeepToo and I love UI Design
 - 🔭 I’m currently working on UI on Java Swing, JavaFX and C# .Net in various companies
+- 👯 Contributing to [Ignite Realtime - Spark](https://github.com/igniterealtime/Spark)
 - 📫 How to reach me: keeptoo.ui.ux@gmail.com for help and other business inquiries
-- :arrow_forward: youtube.com/keeptoo
+- :arrow_forward: [YouTube - youtube.com/keeptoo](youtube.com/keeptoo)
 <!--
 **k33ptoo/k33ptoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
