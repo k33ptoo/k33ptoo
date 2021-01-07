@@ -1,3 +1,4 @@
+![](https://github.com/k33ptoo/k33ptoo/blob/main/banner2.png)
 ### Hi there 👋 my name is Amos Chepchieng - KeepToo and I love UI Design
 - 🔭 I’m currently working on UI on Java Swing, JavaFX and C# .Net in various companies
 - 👯 Contributing to [Ignite Realtime - Spark](https://github.com/igniterealtime/Spark)
