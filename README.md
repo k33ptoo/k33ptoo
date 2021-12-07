@@ -4,8 +4,11 @@
 - 📫 How to reach me: via [email](mailto:keeptoo.ui.ux@gmail.com?subject=[GitHub]%20Business%20Inquiry) for help and other business inquiries
 - :arrow_forward: [YouTube - youtube.com/keeptoo](youtube.com/keeptoo)
 - Need some Java Swing, JavaFX or C# .Net WinForms GUI work done? [Hire me](https://www.upwork.com/o/profiles/users/~01363293b968fb9aca/)
-- I could use some coffee 😉 
-- <a href="https://www.buymeacoffee.com/keeptoo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="174"></a>
+- I could use some coffee 😉  <a href="https://www.buymeacoffee.com/keeptoo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="174"></a>
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=k33ptoo&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k33ptoo&layout=compact)](https://github.com/k33ptoo/github-readme-stats)-->
+
 <!--
 **k33ptoo/k33ptoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
