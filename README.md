@@ -2,7 +2,7 @@
 ### Hi there 👋 my name is Amos Chepchieng - KeepToo and I love UI Design
 - 🔭 I’m currently working on UI on Java Swing, JavaFX, Android and C# .NET in various companies and projects
 - 📫 How to reach me: via [email](mailto:keeptoo.ui.ux@gmail.com?subject=[GitHub]%20Business%20Inquiry) for help and other business inquiries
-- :arrow_forward: [YouTube - youtube.com/keeptoo](youtube.com/keeptoo)
+- :arrow_forward: [YouTube - youtube.com/keeptoo](https://www.youtube.com/keeptoo)
 - Need some Java Swing, JavaFX or C# .Net WinForms GUI work done? [Hire me](https://www.upwork.com/o/profiles/users/~01363293b968fb9aca/)
 - [I could use some coffee ☕](https://www.buymeacoffee.com/keeptoo)
 <!--
