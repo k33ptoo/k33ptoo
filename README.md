@@ -1,13 +1,17 @@
 ![](https://github.com/k33ptoo/k33ptoo/blob/main/banner2.png)
-### Hi there 👋 my name is Amos Chepchieng - KeepToo and I love UI Design
-- 🔭 I’m currently working on several projects in various companies mainly user interfaces using
 
-  * VueJS
-  * Compose Desktop
-  * Swing(using Kotlin and Java)
-  * JavaFX
-  * Android(Kotlin + Compose, Java + xml) currently learning Kotlin Multiplatform Mobile
-  * C# .NET Framework majorly Winforms projects and .Net Framework component development
+Hello there, my name is **Amos Chepchieng** - KeepToo, and I'm a Senior Software Developer with a passion for creating beautiful and functional user interfaces. I have experience working on several projects for various companies, and I enjoy using a variety of technologies to create innovative and engaging UI designs.
+
+Currently, I am working on several projects that involve user interfaces, including:
+
+* VueJS with Tailwind CSS: I have expertise in using VueJS with Tailwind to create stunning UI designs that are responsive and user-friendly. I also have some experience to fiddle with Svelte and React to create amazing UIs.
+* Compose Desktop: I'm proficient in using Compose Desktop to build high-quality UIs for desktop applications.
+* Swing: I use Swing, a Java-based UI toolkit, to create attractive and intuitive user interfaces for various applications.
+* JavaFX: I also have experience working with JavaFX to develop UIs for desktop applications.
+* Android Development: I'm proficient in using Kotlin and Java to create Android applications using Clean Architecture. 
+* C# .NET Framework: I have expertise in Winforms projects and .Net Framework component development to create beautiful and engaging UIs.
+
+Overall, I'm always looking for new opportunities to learn and grow as a Software Developer, and I'm passionate about creating innovative designs that meet the needs of users.
   
 - 📫 How to reach me: via [email](mailto:keeptoo.ui.ux@gmail.com?subject=[GitHub]%20Business%20Inquiry) for help and other business inquiries
 - :arrow_forward: [YouTube - youtube.com/keeptoo](https://www.youtube.com/keeptoo)
